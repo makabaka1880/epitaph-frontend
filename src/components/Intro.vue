@@ -33,4 +33,7 @@
         align-items: flex-start;
     }
 }
+.link-main {
+    text-wrap: none;
+}
 </style>
