@@ -7,3 +7,4 @@
 // Makabaka1880, 2025. All rights reserved.
 
 export const apiBaseUrl = import.meta.env.VITE_API_URL;
+export const s3BaseUrl = import.meta.env.S3_ACCESS_URL;
