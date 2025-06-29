@@ -17,6 +17,10 @@ const routes = [
                 component: () => import("./views/SubmitView.vue"),
             },
             {
+                path: "memories",
+                component: () => import("./views/MemoriesView.vue"),
+            },
+            {
                 path: "dev",
                 component: () => import("./views/PageUnderDev.vue"),
             },
