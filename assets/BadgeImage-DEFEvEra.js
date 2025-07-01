@@ -1,0 +1,1 @@
+import{f as a,c as r,o as s}from"./index-CPbMqzMP.js";const c=["alt"],g={__name:"BadgeImage",props:{repo:String,badge:String,alt:String},setup(e){const t=`${a}/resources/badges/${e.repo}/${e.badge}`;return(l,n)=>(s(),r("img",{src:t,alt:e.alt,style:{"max-width":"100%"}},null,8,c))}};export{g as default};
